@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=oxifs
+Comment=Lightweight Fast Rust File Manager with Storage Visualizer
+Exec=oxifs %U
+Icon=system-file-manager
+Terminal=false
+Type=Application
+Categories=System;FileManager;Utility;
+Keywords=files;file manager;storage;disk;pie chart;rust;hyprland;
+StartupWMClass=oxifs
+MimeType=inode/directory;
